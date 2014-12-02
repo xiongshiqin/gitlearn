@@ -6,4 +6,4 @@ git is a very great system.
 
 Git is a mutable index called stage!^!
 
-tracks changes.
+git tracks changes of files.
